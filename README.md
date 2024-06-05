@@ -23,4 +23,4 @@ The "Airbnb" project is a web application developed using HTML and Tailwind CSS.
 
 ## Developer
 
-- Developed by Chandra Saikumar Chandu
+- Developed by Chandra Saikumar aka Chandu
