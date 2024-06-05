@@ -19,7 +19,7 @@ The "Airbnb" project is a web application developed using HTML and Tailwind CSS.
 
  - Special thanks to <a href ="https://tailwindcss.com/"> Tailwind CSS </a> for providing a powerful utility-first CSS framework.
 
- - Icons used in the project are sourced from Font Awesome.
+ - Icons used in the project are sourced from <a href="https://fontawesome.com/"> Font Awesome </a>.
 
 ## Developer
 
